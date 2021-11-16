@@ -1,4 +1,4 @@
-# Hey! I'm Mohamed A. Eljaouadi 👋 🧑🏻‍💻
+# Hi there! I'm Mohamed A. Eljaouadi 👋 🧑🏻‍💻
 
 ![Design and Development](https://www2.0zz0.com/2021/11/16/22/178901555.jpg)
 
