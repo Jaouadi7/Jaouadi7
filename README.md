@@ -1,5 +1,4 @@
-### HEY THERE! I'M MOHAMED A. ELJAOUADI 👋
-#### Design & Development
+### HEY THERE! I'M MOHAMED A. ELJAOUADI 👋 🧑🏻‍💻
 
 ![Design and Development](https://www2.0zz0.com/2021/11/16/22/178901555.jpg)
 
