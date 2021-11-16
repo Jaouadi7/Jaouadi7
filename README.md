@@ -2,7 +2,7 @@
 #### Design & Development#
 
 <div align="center">
-<img width="100%" height = "250px" src="https://www2.0zz0.com/2021/11/16/22/178901555.jpg" alt="cover" />
+<img width="100%" height = "620px" src="https://www2.0zz0.com/2021/11/16/22/178901555.jpg" alt="cover" />
 </div>
 
 
