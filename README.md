@@ -4,6 +4,8 @@
 
 I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly 2 years and have been loving every minute of it. please check  👉  [My Portfolio Website](http://eljaouadi.com).
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I’m currently working on My Clients Projects, Github Project
 
 - 🌱 I’m currently learning Vue Js, React, Electron JS
