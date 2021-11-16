@@ -1,4 +1,4 @@
-### Hi there! I'm Mohamed A. Eljaouadi 👋
+### HEY THERE! I'M MOHAMED A. ELJAOUADI 👋
 
 <!--
 **Jaouadi7/Jaouadi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
