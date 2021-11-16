@@ -1,8 +1,7 @@
 ### HEY THERE! I'M MOHAMED A. ELJAOUADI 👋
 
-I am a moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly 2 years and have been loving every minute of it. please check 👉 my portfolio website.
+I am a moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly 2 years and have been loving every minute of it. please check 👉 [my portfolio website](http://eljaouadi.com).
 
-[my portfolio website](http://eljaouadi.com)
 
 <!--
 **Jaouadi7/Jaouadi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
