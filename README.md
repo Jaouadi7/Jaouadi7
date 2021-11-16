@@ -14,7 +14,7 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 
 ## My Skills
 
-<ul>
+<ul style="display:flex;">
   <li><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></li>
   <li><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></li>
   <li><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></li>
