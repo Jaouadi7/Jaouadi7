@@ -41,10 +41,10 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 ## Contact Me
 
 <a href = 'https://www.linkedin.com/in/eljaouadi'>
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/linkedin.png"/>
 </a> 
 <a href = 'https://web.facebook.com/Eljaouadi7/'>
-  <img width = '32px' align= 'center' src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png"/>
+  <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/facebook%20(1).png"/>
 </a>
 
 
