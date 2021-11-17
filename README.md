@@ -49,9 +49,7 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 <a href = 'https://wa.me/00212621058205'>
   <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/whatsapp.png"/>
 </a>
-<a href = 'mailto=eljaouadi1mohamed@gmail.com'>
-  <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/gmail.png"/>
-</a>
+
 
 
 
