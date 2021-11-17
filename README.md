@@ -37,6 +37,17 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 ## My Projects
  
  To see my list of projects check  👉  [My Portfolio Website](http://eljaouadi.com).
+ 
+## Contact Me
+
+<a href = 'https://www.linkedin.com/in/eljaouadi'>
+  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+</a> 
+<a href = 'https://web.facebook.com/Eljaouadi7/'>
+  <img width = '32px' align= 'center' src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png"/>
+</a>
+
+
 
 
 
