@@ -30,7 +30,9 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
   
  ## My Certifications
 
-<img width="50%" align="left" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert.png" />
+<div>
+  <img width="50%" align="left" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert.png" />
+</div>
 
  ## My Projects
  
