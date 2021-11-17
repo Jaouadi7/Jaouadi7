@@ -36,7 +36,7 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 
 ## My Projects
  
- To see my list of projects check  👉  [My Portfolio Website](http://eljaouadi.com).
+ To see list of my projects please check  👉  [My Portfolio Website](http://eljaouadi.com).
  
 ## Contact Me
 
