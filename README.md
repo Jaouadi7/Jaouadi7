@@ -34,9 +34,7 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
     <img width="50%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert-google-gads-2021-min.png" />
 </div>
 
-## My Projects
- 
- To see list of my projects please check  👉  [My Portfolio Website](http://eljaouadi.com).
+
  
 ## Contact Me
 
