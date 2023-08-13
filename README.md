@@ -5,11 +5,11 @@
 I am a Moroccan full-time freelance  Full-Stack developer. who specializes in creating dynamic and beautiful web pages.  please check  👉  [My Portfolio Website](https://eljaouadi.online).
 - 🔭 I’m currently working on My Clients' Projects, Github Project
 
-- 🌱 I’m currently learning Vue Js, React, Electron JS
+- 🌱 I’m currently learning Laravel, React, Next.js
 
 - 👯 I’m looking to collaborate on Projects
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about JavaScript, Freelancing opportunities, Open Source 
 
 ## My Skills
 
