@@ -2,8 +2,8 @@
 
 ![Design and Development](https://www2.0zz0.com/2021/11/16/22/178901555.jpg)
 
-I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages.  please check  👉  [My Portfolio Website](https://eljaouadi.online).
-- 🔭 I’m currently working on My Clients Projects, Github Project
+I am a Moroccan full-time freelance  Full-Stack developer. who specializes in creating dynamic and beautiful web pages.  please check  👉  [My Portfolio Website](https://eljaouadi.online).
+- 🔭 I’m currently working on My Clients' Projects, Github Project
 
 - 🌱 I’m currently learning Vue Js, React, Electron JS
 
@@ -36,7 +36,7 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 
 ## My Projects
 
- To see list of my projects please check  👉  [My Portfolio Website](https://eljaouadi.online).
+ To see a list of my projects please check  👉  [My Portfolio Website](https://eljaouadi.online).
  
 ## Contact Me
 
