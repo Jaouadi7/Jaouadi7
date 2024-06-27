@@ -3,6 +3,7 @@
 ![Design and Development](https://www2.0zz0.com/2021/11/16/22/178901555.jpg)
 
 I am a Moroccan full-time freelance  Full-Stack developer. who specializes in creating dynamic and beautiful web pages.  please check  👉  [My Portfolio Website](https://eljaouadi.online).
+
 - 🔭 I’m currently working on My Clients' Projects, Github Project
 
 - 🌱 I’m currently learning Neovim, Astro & React Native
@@ -33,9 +34,9 @@ I am a Moroccan full-time freelance  Full-Stack developer. who specializes in cr
  ## My Certifications
 
 <div style="display:flex;">
-  <img width="49%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert.png" />
-  <img width="49%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert-google-gads-2021-min.png" />
-  <img width="49%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/meta-cert.jpg" />
+  <img width="32%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert.png" />
+  <img width="32%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/cert-google-gads-2021-min.png" />
+  <img width="32%" alt="cert" src="https://github.com/Jaouadi7/Jaouadi7/blob/main/meta-cert.jpg" />
 </div>
 
 ## My Projects
