@@ -1,6 +1,6 @@
 # Hi there! I'm Mohamed A. Eljaouadi 👋 🧑🏻‍💻
 
-![Design and Development]([github-cover.jpg](https://github.com/Jaouadi7/Jaouadi7/blob/main/github-cover.jpg))
+![Design and Development](https://github.com/Jaouadi7/Jaouadi7/blob/main/github-cover.jpg)
 
 I am a Moroccan full-time freelance  Full-Stack developer. who specializes in creating dynamic and beautiful web pages.  please check  👉  [My Portfolio Website](https://eljaouadi.online).
 
